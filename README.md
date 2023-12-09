@@ -27,4 +27,5 @@ UCS SubgraphGen is a specialized tool designed to streamline the process of crea
     - abis/interface.json
 
 ## TBD
-- Solidity-based mappings support
+- Support Solidity-based mappings (like [GraphGen](https://github.com/Protean-Labs/graphgen))
+- Support [Shadow](https://www.shadow.xyz/)
